@@ -1,7 +1,7 @@
 # XDrive 4.0 Development Build 583 🤗⚡
 
 ![ERROR](/shots/xdrive.png) <br>
-Application uses sftp protocol for server connection and uses mysql database.
+Application uses sftp protocol for server connection and uses mysql database. <br>
 This application is written in Apache netBeans IDE and it uses **[SDK Library 5.0](https://github.com/mahdiDedsec/SDKLibrary-5.0).**
 
 ## New Features

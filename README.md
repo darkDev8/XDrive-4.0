@@ -19,7 +19,7 @@ This application is written in Apache netBeans IDE and it uses **[SDK Library 5.
 * User limitations not working
 * Filter file types in main combo box not working
 * Stop button in upload file form not working
-* Some items in popup menu for main form background won't change.
+* Some items in popup menu for main form background won't change
 
 ## Themes <br> 
 

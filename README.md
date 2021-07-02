@@ -19,10 +19,10 @@ This application is written in Apache netBeans IDE and it uses **[SDK Library 5.
 ## Themes <br> 
 
 ## Flat Nord
-![ERROR](/shots/1.png)
+![ERROR](/shots/FlatNord.png)
 ## Arc Light
-![ERROR](/shots/2.png)
+![ERROR](/shots/ArcLight.png)
 ## Material Dark
-![ERROR](/shots/3.png)
+![ERROR](/shots/MaterialDark.png)
 ## Solarized Light
-![ERROR](/shots/4.png) <br>
+![ERROR](/shots/SolarizedLight.png) <br>

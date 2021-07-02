@@ -1,0 +1,35 @@
+Features
+------------------------------------
+Upload files from computer to server.
+Download files from server to computer.
+Remove files from server.
+Rename files in server.
+Update files from server.
+Show files from server without download.
+Show file properties from server.
+User configurations.
+Print files information.
+Software configuration.
+
+Packages and classes
+---------------------------------
+main package			-> org.xdrive
+main runtime			-> org.xdrive.main
+tools and utilities		-> org.xdrive.ext
+important classes		-> org.xdrive.root
+threads					-> org.xdrive.threads
+forms and dialogs		-> org.xdrive.forms
+image files resource	-> org.xdrive.img
+server configuration	-> org.xdrive.server
+
+Bugs
+------------------------------------
+[*] Upload failed when after stop upload and start again.
+
+Database site
+-------------------------------------
+free mysql hosting.net
+accout number 527732
+database host : sql11.freemysqlhosting.net
+database name : sql11422283
+database username : sql11422283

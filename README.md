@@ -12,6 +12,9 @@ This application is written in Apache netBeans IDE and it uses **[SDK Library 5.
 * Server connection fails
 * Show content item not working
 * Analyze storage not working
+* Filter file types not working
+* Stop button in upload file form not working
+* Some theme switch not working for popup menu
 
 ## Themes <br> 
 

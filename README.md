@@ -14,7 +14,7 @@ This application is written in Apache netBeans IDE and it uses **[SDK Library 5.
 * Analyze storage not working
 * Filter file types not working
 * Stop button in upload file form not working
-* Some theme switch not working for popup menu
+* Some items in popup menu for main form background won't change.
 
 ## Themes <br> 
 

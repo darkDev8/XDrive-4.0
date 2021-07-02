@@ -13,7 +13,8 @@ Application uses sftp protocol for server connection and uses mysql database.
 * Analyze storage not working
 
 ## Themes <br> 
-##Flat Nord
+
+## Flat Nord
 ![ERROR](/shots/1.png)
 ## Arc Light
 ![ERROR](/shots/2.png)

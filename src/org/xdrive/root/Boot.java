@@ -101,7 +101,7 @@ public class Boot {
     }
     
     public Boot loadDatabaseConnection() {
-        var xdc = new XDriveConnection(3306, "sql11.freemysqlhosting.net", "sql11422283", "PbIrQwfIQ1", "sql11422283");
+        var xdc = new XDriveConnection(3306, "host", "username", "password", "databsaeName");
         var status = xdc.connect();
         
         if (!status) {
@@ -114,7 +114,7 @@ public class Boot {
     }
     
     public Boot loadServerConnection() {
-        var sc = new ServerConnection("192.168.1.101", "mch8", "23549918", 22);
+        var sc = new ServerConnection("ip", "username", "password", 22);
         var status = sc.connect();
         
         if (!status) {

@@ -13,10 +13,11 @@ This application is written in Apache netBeans IDE and it uses **[SDK Library 5.
 * New GUI interface make intracting easier
 
 ## Bugs
-* Server connection fails
-* Show content item not working
-* Analyze storage not working
-* Filter file types not working
+* Sftp server connection fails
+* Show content item in main popup menu not working
+* Storage analyzer not working
+* User limitations not working
+* Filter file types in main combo box not working
 * Stop button in upload file form not working
 * Some items in popup menu for main form background won't change.
 

@@ -5,8 +5,12 @@ Application uses sftp protocol for server connection and uses mysql database. <b
 This application is written in Apache netBeans IDE and it uses **[SDK Library 5.0](https://github.com/mahdiDedsec/SDKLibrary-5.0).**
 
 ## New Features
-* You can see file content without downloading into hard disk.
-* New GUI interface make intracting easier.
+* You can see file content without downloading into hard disk
+* You can upload and download multiple files
+* Support Multithreading
+* Storage analyzer
+* Working directory preferences
+* New GUI interface make intracting easier
 
 ## Bugs
 * Server connection fails

@@ -11,3 +11,9 @@ Application uses sftp protocol for server connection and uses mysql database.
 * Server connection fails
 * Show content item not working
 * Analyze storage not working
+
+## Themes
+![ERROR](/shots/1.png)
+![ERROR](/shots/2.png)
+![ERROR](/shots/3.png)
+![ERROR](/shots/4.png)

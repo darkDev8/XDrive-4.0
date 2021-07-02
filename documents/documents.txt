@@ -28,8 +28,3 @@ Bugs
 
 Database site
 -------------------------------------
-free mysql hosting.net
-accout number 527732
-database host : sql11.freemysqlhosting.net
-database name : sql11422283
-database username : sql11422283

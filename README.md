@@ -21,4 +21,6 @@ Application uses sftp protocol for server connection and uses mysql database.
 ## Material Dark
 ![ERROR](/shots/3.png)
 ## Solarized Light
-![ERROR](/shots/4.png)
+![ERROR](/shots/4.png) <br>
+
+This application is written in Apache netBeans IDE and it uses **[SDK Library 5.0](https://github.com/mahdiDedsec/SDKLibrary-5.0).**
